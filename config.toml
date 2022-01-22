@@ -26,8 +26,8 @@ theme = "hugo-theme-shell"
   # Note: result of the tree command
   userName = "roman"
   pcName = "akhtariev"
-  workDir = "whois"
-  profile = "profile.txt"
+  workDir = "about"
+  profile = "me.txt"
 
   # Note: speed at which text is displayed on the terminal
   # Note: if set to 0, typing animation will be disabled
@@ -51,8 +51,12 @@ theme = "hugo-theme-shell"
   # activityDelay = 5 : deprecated
 
   description = """
-  Software engineering. Distributed systems. Blockchain.
- 
+  Software engineer interested in distributed systems, blockchain, and finance.
+
+  Generally, technology agnostic but seasoned in Go, learning Rust.
+  Also, been building on Cosmos.
+
+  Email me:
   roman at akhtariev dot ca
   """
 
