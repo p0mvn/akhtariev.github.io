@@ -51,10 +51,7 @@ theme = "hugo-theme-shell"
   # activityDelay = 5 : deprecated
 
   description = """
-  Software engineer interested in distributed systems, blockchain, and finance.
-
-  Generally, technology agnostic but seasoned in Go, learning Rust.
-  Also, been building on Cosmos.
+  Software engineer
 
   Email me:
   roman at akhtariev dot ca
@@ -69,8 +66,6 @@ theme = "hugo-theme-shell"
   folderName = "contact"
   # Note: ["ACTIVITY", "URL or PATH TO YOUR MARKDOWN FILE"]
   files = [ 
-    ["github", "https://github.com/akhtariev"],
-    ["linkedin", "https://www.linkedin.com/in/roman-akhtariev"],
     ["twitter", "https://twitter.com/akhtariev"]
   ]
 
